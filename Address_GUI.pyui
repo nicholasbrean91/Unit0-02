@@ -1,0 +1,71 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {1024, 768}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{450, 221}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{45, 104}, {150, 32}}",
+          "uuid" : "37FB7553-14AA-4446-9EFF-EACCCBC4644F",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Nicholas ",
+          "number_of_lines" : 1,
+          "name" : "Adress stuff",
+          "font_size" : 30
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{450, 272}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "6CB7FD3A-ECDC-48D4-AA95-91957BD2F150",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ottawa",
+          "name" : "label1",
+          "font_size" : 30
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{450, 327}, {150, 32}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "font_name" : "<System>",
+          "frame" : "{{437, 368}, {150, 32}}",
+          "uuid" : "F1545838-80CC-4A0C-83F4-A3F88B77EBBB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Ontario",
+          "name" : "label2",
+          "font_size" : 30
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
